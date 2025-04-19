@@ -66,5 +66,5 @@ src/
 ---
 ## Screenshots
 
-![Screenshot from 2025-04-19 21-58-06](https://github.com/user-attachments/assets/3e962dfd-5e17-4460-958e-2246f143ca51)
+![Screenshot from 2025-04-19 23-14-18](https://github.com/user-attachments/assets/ba3d7b30-5a15-4a2d-9e93-1f823a2f7589)
 

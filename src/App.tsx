@@ -10,6 +10,7 @@ const initialTemplates = [
     { id: "4", title: "Infra oral examinations:", subTitle: "Tenderness around molar" },
     { id: "5", title: "Radiography findings:", subTitle: "X-ray planned to confirm extend of infection" },
     { id: "6", title: "Diagnosis:", subTitle: "Suspect tooth abscess" },
+    { id: "7", title: "Treatment:", subTitle: "Root canal planned to remove infected tissues" },
 ];
 
 

@@ -26,18 +26,18 @@ export function TemplateCard({ id, template }: Props) {
         fontSize: '16px',
         cursor: 'grab',
         width: '50%',
-        height: '60px',
+        height: '80px',
         marginBottom: '20px',
         paddingLeft: '15px',
 
         title: {
-            fontSize: '15px',
+            fontSize: '19px',
             fontWeight: 'bold',
             lineHeight: '0px',
 
         },
         subtitle: {
-            fontSize: '15px',
+            fontSize: '19px',
             lineHeight: '0px',
 
 

@@ -64,3 +64,7 @@ src/
 - Written in TypeScript for type safety
 
 ---
+## Screenshots
+
+![Screenshot from 2025-04-19 21-58-06](https://github.com/user-attachments/assets/3e962dfd-5e17-4460-958e-2246f143ca51)
+
